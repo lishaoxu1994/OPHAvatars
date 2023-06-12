@@ -1,1 +1,1 @@
-# OHAvatars
+# OHAvatars: One-shot Head Avatars
